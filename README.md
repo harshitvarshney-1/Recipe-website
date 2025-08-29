@@ -1,3 +1,3 @@
 # Recipe Website
 
-![Screenshot](./Images/Screenshot .png)
+![Screenshot](./Images/Screenshot.png)
